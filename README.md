@@ -12,6 +12,10 @@ Some things you might find interesting if you want to use the covers:
 
   • We only have front covers
 
+  • This repository was not designed for task automation like some repositories. All games are named by their names, not their series.
+  
+  • This repository is updated at least once a week, correcting names and covers, adding more games, adding more consoles, and other errors.
+
 
 <h1>Português</h1>
 
@@ -26,3 +30,7 @@ Algumas coisas talvez sejam interessantes caso você queira usar as capas:
   • Todas as capas têm seus logos de console, exceto em casos como PC e JAVA (que não possuem um logo específico como PS4, PS3 e outros).
 
   • Temos apenas capas frontais
+
+  • Este repositório não foi pensado para automatização de tarefas como alguns repositórios, todos os jogos são nomeados através de seus nomes e não pela sua SERIE
+
+  • Este repositório é atualizado pelo menos uma vez na semana, corrigindo nomes e capas, adicionando mais jogos, adicionando mais consoles, e outros erros
