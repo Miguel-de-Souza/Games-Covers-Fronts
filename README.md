@@ -1,5 +1,6 @@
 <h1>English</h1>
-Still adding more games...
+
+(Still adding more games...)
 
 Some things you might find interesting if you want to use the covers:
 
@@ -9,7 +10,8 @@ Some things you might find interesting if you want to use the covers:
 
 
 <h1>Português</h1>
-Ainda adicionando mais jogos...
+
+(Ainda adicionando mais jogos...)
 
 Algumas coisas talvez sejam interessantes caso você queira usar as capas:
 
