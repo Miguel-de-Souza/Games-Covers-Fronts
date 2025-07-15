@@ -17,20 +17,17 @@ Some things you might find interesting if you want to use the covers:
   • This repository is updated at least once a week, correcting names and covers, adding more games, adding more consoles, and other errors.
 
 
-<h1>Português</h1>
+<h1>🇧🇷 Português</h1>
 
-(Ainda adicionando mais jogos...)
+<p><em>(Ainda adicionando mais jogos...)</em></p>
 
-Algumas coisas talvez sejam interessantes caso você queira usar as capas:
+<p>Algumas informações úteis caso você deseje utilizar as capas deste repositório:</p>
 
-  • As capas do mesmo console têm tamanhos diferentes. Por exemplo, no PS3, algumas podem ser 640x737, 600x338, 1305x1500, etc.
-  
-  • Algumas capas estão um pouco claras ou um pouco escuras, mas ainda são bem visíveis.
-  
-  • Todas as capas têm seus logos de console, exceto em casos como PC e JAVA (que não possuem um logo específico como PS4, PS3 e outros).
-
-  • Temos apenas capas frontais
-
-  • Este repositório não foi pensado para automatização de tarefas como alguns repositórios, todos os jogos são nomeados através de seus nomes e não pela sua SERIE
-
-  • Este repositório é atualizado pelo menos uma vez na semana, corrigindo nomes e capas, adicionando mais jogos, adicionando mais consoles, e outros erros
+<ul>
+  <li>As capas de um mesmo console podem ter tamanhos diferentes. Por exemplo, no PS3, você encontrará resoluções como 640x737, 600x338, 1305x1500, entre outras.</li>
+  <li>Algumas capas podem estar um pouco claras ou escuras, mas ainda mantêm boa visibilidade e qualidade geral.</li>
+  <li>Todas as capas incluem os logotipos dos consoles, com exceção de plataformas como PC e Java, que não possuem um logo oficial</li>
+  <li>Este repositório contém apenas capas frontais dos jogos.</li>
+  <li>O repositório não é voltado para automação de tarefas, sendo nomeados pelo nome do jogo ao invés de sua SERIE como a maioria dos repositórios de capas frontais. Como BLES01976 > Minecraft</li>
+  <li>Atualizações são feitas ao menos uma vez por semana, com correções de nomes, melhorias nas capas, adição de novos jogos, inclusão de novos consoles e alguns ajustes.</li>
+</ul>
