@@ -1,23 +1,20 @@
 <h1>English</h1>
 
-(Still adding more games...)
+<p><em>(Still adding more games...)</em></p>
 
-Some things you might find interesting if you want to use the covers:
+<p>Some useful information if you want to use the covers from this repository:</p>
 
-  • Covers for the same console come in different sizes. For example, on the PS3, some might be 640x737, 600x338, 1305x1500, etc.
-  
-  • Some covers are a little light or a little dark, but they're still clearly visible.
-  
-  • All covers have their console logos, except for cases like PC and JAVA (which don't have a specific logo like PS4, PS3, and others).
-
-  • We only have front covers
-
-  • This repository was not designed for task automation like some repositories. All games are named by their names, not their series.
-  
-  • This repository is updated at least once a week, correcting names and covers, adding more games, adding more consoles, and other errors.
+<ul>
+<li>Cover covers for the same console can have different sizes. For example, on the PS3, you'll find resolutions like 640x737, 600x338, 1305x1500, among others.</li>
+<li>Some covers may be a little light or dark, but they still maintain good visibility and overall quality.</li>
+<li>All covers include console logos, with the exception of platforms like PC and Java, which don't have an official logo.</li>
+<li>This repository only contains game front covers.</li>
+<li>The repository is not intended for task automation, and is named by the game name rather than its SERIES like most front cover repositories. How BLES01976 > Minecraft</li>
+<li>Updates are made at least once a week, with name corrections, cover improvements, the addition of new games, the inclusion of new consoles, and some adjustments.</li>
+</ul>
 
 
-<h1>🇧🇷 Português</h1>
+<h1>Português</h1>
 
 <p><em>(Ainda adicionando mais jogos...)</em></p>
 
