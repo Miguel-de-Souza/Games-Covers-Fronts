@@ -14,7 +14,7 @@
 </ul>
 
 
-<h1>Português 🇧🇷</h1>
+<h1>Português</h1>
 
 <p><em>(Ainda adicionando mais jogos...)</em></p>
 
